@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 first line in the file 
 third line in the file
 
 
+=======
+first line in the file
+second line in the file
+>>>>>>> da27905af4a424e65386ccc927b0873d3173748c
