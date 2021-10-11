@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 first line in the file 
-third line in the file
+this is edited line
 
 
 =======
